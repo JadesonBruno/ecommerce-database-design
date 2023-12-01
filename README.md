@@ -10,7 +10,7 @@ The implementation of this project involved the transition from the Conceptual M
 
 I used the SQL language to create the database in the DBMS, MySQL, defining the entities and restrictions necessary for the model. Additionally, I populated the database with dummy data to allow queries using Data Query Language (DQL).
 
-The project was a prerequisite for approval in the "Database Modeling and Logical Projects" module of the "Bootcamp Potência Tech powered by Ifood | Data Science" at the DIO Educational Institution.
+The project was a prerequisite for approval in the "Database Modeling and Logical Projects" module of the "Bootcamp Potência Tech powered by [Ifood](https://www.ifood.com.br/) | Data Science" from the educational institution [DIO](https://www.dio.me/).
 
 ## Business Questions
 
